@@ -1,0 +1,24 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  background: #f3f7fb;
+  font-family: Arial, sans-serif;
+}
+
+button,
+input,
+select {
+  font-family: inherit;
+}
+
